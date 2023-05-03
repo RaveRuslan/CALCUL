@@ -93,7 +93,7 @@ textarea {
 section	{
 	width: 100vw;
 	height: 100vh;
-	background: url("bj.jpg");
+	//background: url("bj.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
