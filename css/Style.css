@@ -93,7 +93,7 @@ textarea {
 section	{
 	width: 100vw;
 	height: 100vh;
-	background: url("../img/bj.jpg");
+	background: url("bj.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -101,7 +101,7 @@ section:before {
 	content: '';
 	position: absolute;
 	display: block;
-	background-image: url('../img/dg.png');
+	background-image: url('dg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 /*	background: linear-gradient(293.41deg, rgba(0, 0, 0, 0.2) 59.56%, rgba(255, 244, 244, 0.034) 80.21%);*/
